@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "beep", "beep\beep.vbproj", "{340F953A-4A5B-4A1D-A831-970864AE435A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340F953A-4A5B-4A1D-A831-970864AE435A}.Debug|x86.ActiveCfg = Debug|x86
+		{340F953A-4A5B-4A1D-A831-970864AE435A}.Debug|x86.Build.0 = Debug|x86
+		{340F953A-4A5B-4A1D-A831-970864AE435A}.Release|x86.ActiveCfg = Release|x86
+		{340F953A-4A5B-4A1D-A831-970864AE435A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
